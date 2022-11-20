@@ -46,3 +46,5 @@ Stones_on_the_Table (https://codeforces.com/contest/266/problem/A)
 Twins  (https://codeforces.com/contest/160/problem/A)
 
 Way_Too_Long_Words (https://codeforces.com/contest/71/problem/A)
+
+Olesya and Rodion (https://codeforces.com/contest/584/problem/A)
