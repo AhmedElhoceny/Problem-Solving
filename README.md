@@ -33,6 +33,8 @@ Keyboard (https://codeforces.com/contest/474/problem/A)
 
 NewPassword (https://codeforces.com/contest/770/problem/A)
 
+Football (https://codeforces.com/contest/43/problem/A)
+
 Night_at_the_Museum (https://codeforces.com/contest/731/problem/A)
 
 Police_Recruits (https://codeforces.com/contest/427/problem/A)
