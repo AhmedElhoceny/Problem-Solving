@@ -49,4 +49,4 @@ Twins  (https://codeforces.com/contest/160/problem/A)
 
 Way_Too_Long_Words (https://codeforces.com/contest/71/problem/A)
 
-Olesya and Rodion (https://codeforces.com/contest/584/problem/A)
+Brain's Photos (https://codeforces.com/contest/707/problem/A)
