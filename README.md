@@ -50,3 +50,5 @@ Twins  (https://codeforces.com/contest/160/problem/A)
 Way_Too_Long_Words (https://codeforces.com/contest/71/problem/A)
 
 Brain's Photos (https://codeforces.com/contest/707/problem/A)
+
+Dubstep (https://codeforces.com/contest/208/problem/A?f0a28=1)
