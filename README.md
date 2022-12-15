@@ -1,6 +1,8 @@
 # Problem-Solving
 Problems
 
+A.Pangram (https://codeforces.com/problemset/problem/520/A)
+
 A.Is It Rated (https://codeforces.com/contest/807/problem/A)
 
 A._I_Wanna_Be_the_Guy (https://codeforces.com/contest/469/problem/A)
