@@ -11,6 +11,8 @@ Anton_and_Letters (https://codeforces.com/contest/443/problem/A)
 
 Black_Square (https://codeforces.com/contest/431/problem/A)
 
+Sereja and Suffixes (https://codeforces.com/problemset/problem/368/B)
+
 Buy_a_Shovel (https://codeforces.com/contest/732/problem/A)
 
 Carrot_Cakes (https://codeforces.com/contest/799/problem/A)
