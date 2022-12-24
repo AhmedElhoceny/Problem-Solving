@@ -9,6 +9,8 @@ A._I_Wanna_Be_the_Guy (https://codeforces.com/contest/469/problem/A)
 
 Anton_and_Letters (https://codeforces.com/contest/443/problem/A)
 
+Stripe  (https://codeforces.com/contest/18/problem/C)
+
 Black_Square (https://codeforces.com/contest/431/problem/A)
 
 Sereja and Suffixes (https://codeforces.com/problemset/problem/368/B)
