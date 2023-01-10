@@ -23,6 +23,8 @@ ColorfulStones(Simplified Edition)  (https://codeforces.com/contest/265/problem/
 
 Die_Roll (https://codeforces.com/contest/9/problem/A)
 
+Sereja and Dima (https://codeforces.com/problemset/problem/381/A)
+
 Second Order Statistics (https://codeforces.com/problemset/problem/22/A)
 
 Even_Odds (https://codeforces.com/contest/318/problem/A)
