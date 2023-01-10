@@ -17,6 +17,8 @@ Sereja and Suffixes (https://codeforces.com/problemset/problem/368/B)
 
 Buy_a_Shovel (https://codeforces.com/contest/732/problem/A)
 
+Books (https://codeforces.com/problemset/problem/279/B)
+
 Carrot_Cakes (https://codeforces.com/contest/799/problem/A)
 
 ColorfulStones(Simplified Edition)  (https://codeforces.com/contest/265/problem/A)
