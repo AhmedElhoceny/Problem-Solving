@@ -1,6 +1,8 @@
 # Problem-Solving
 Problems
 
+DZY Loves Chessboard (https://codeforces.com/problemset/problem/445/A)
+
 A.Pangram (https://codeforces.com/problemset/problem/520/A)
 
 A.Is It Rated (https://codeforces.com/contest/807/problem/A)
