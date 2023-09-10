@@ -34,3 +34,6 @@ Z:\Elhoceny\Problem Solving\obj\Debug\net6.0\refint\ProblemSolving.dll
 Z:\Elhoceny\Problem Solving\obj\Debug\net6.0\ProblemSolving.pdb
 Z:\Elhoceny\Problem Solving\obj\Debug\net6.0\ProblemSolving.genruntimeconfig.cache
 Z:\Elhoceny\Problem Solving\obj\Debug\net6.0\ref\ProblemSolving.dll
+C:\WorkingSpace\ProblemSolving\obj\Debug\net6.0\ProblemSolving.dll
+C:\WorkingSpace\ProblemSolving\obj\Debug\net6.0\refint\ProblemSolving.dll
+C:\WorkingSpace\ProblemSolving\obj\Debug\net6.0\ProblemSolving.pdb
