@@ -7,6 +7,8 @@ A.Pangram (https://codeforces.com/problemset/problem/520/A)
 
 A.Is It Rated (https://codeforces.com/contest/807/problem/A)
 
+B. Bear and Friendship Condition (https://codeforces.com/contest/791/problem/B)
+
 A._I_Wanna_Be_the_Guy (https://codeforces.com/contest/469/problem/A)
 
 Anton_and_Letters (https://codeforces.com/contest/443/problem/A)
