@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Problems",
+    "\\Problems\\B - Bear and Friendship Condition",
+    "\\Problems\\Black_Square"
   ],
-  "SelectedNode": "\\ProblemSolving.csproj",
+  "SelectedNode": "\\Problems\\B - Bear and Friendship Condition\\BearandFriendshipCondition.cs",
   "PreviewInSolutionExplorer": false
 }
