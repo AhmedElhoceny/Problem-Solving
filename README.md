@@ -1,6 +1,8 @@
 # Problem-Solving
 Problems
 
+B. DZY Loves Chemistry (https://codeforces.com/contest/445/problem/B)
+
 DZY Loves Chessboard (https://codeforces.com/problemset/problem/445/A)
 
 A.Pangram (https://codeforces.com/problemset/problem/520/A)
